@@ -3,7 +3,7 @@
 A physics engine supporting elastic networks, gravity and terrain.
 The example used is an octopus.
 
-Main controls supported (dependant on version):
+Main controls supported (dependent on version):
  - Left click to drag nodes
  - A to toggle gravity
  - I to increase length of all links temporarily
